@@ -11,7 +11,7 @@
     {
       "uuid": "b6cfbee2-9913-4c8a-ac72-01941fc24d96",
       "type": "http",
-      "documentation": "get1",
+      "documentation": "get-1",
       "method": "get",
       "endpoint": "",
       "responses": [
@@ -40,9 +40,9 @@
     {
       "uuid": "9b744d01-de63-422f-89f4-971f7cf3bb6e",
       "type": "http",
-      "documentation": "",
+      "documentation": "get-2",
       "method": "get",
-      "endpoint": "get2",
+      "endpoint": "get-2",
       "responses": [
         {
           "uuid": "9746cbee-70c9-4804-8eb5-e744ea1fca3a",
@@ -69,9 +69,9 @@
     {
       "uuid": "379ca59c-3ad5-4061-ae14-fd27b067dbbe",
       "type": "http",
-      "documentation": "",
+      "documentation": "get-3",
       "method": "get",
-      "endpoint": "get3",
+      "endpoint": "get-3",
       "responses": [
         {
           "uuid": "cb6769e7-a872-4123-9b22-2ae67ee9179e",
@@ -98,9 +98,9 @@
     {
       "uuid": "02fd2596-af6c-4c12-84be-f70b0c847640",
       "type": "http",
-      "documentation": "",
+      "documentation": "get-4",
       "method": "get",
-      "endpoint": "get4",
+      "endpoint": "get-4",
       "responses": [
         {
           "uuid": "2e1a1a2b-5ec2-4cb9-a112-5457f7e5d9a0",
@@ -127,9 +127,9 @@
     {
       "uuid": "12840713-9220-4f93-aea2-98d004ba9c95",
       "type": "http",
-      "documentation": "",
+      "documentation": "post-1",
       "method": "post",
-      "endpoint": "post1",
+      "endpoint": "post-1",
       "responses": [
         {
           "uuid": "cfa69230-0012-42e3-addb-c1186811d8d3",
@@ -156,9 +156,9 @@
     {
       "uuid": "3c05a13e-fe57-4eb1-8bdd-832b10143c85",
       "type": "http",
-      "documentation": "",
+      "documentation": "post-2",
       "method": "post",
-      "endpoint": "post2",
+      "endpoint": "post-2",
       "responses": [
         {
           "uuid": "5122fd45-cad2-4625-82cb-28e0aeb4af70",
@@ -185,9 +185,9 @@
     {
       "uuid": "ca946f34-2101-4c55-a6ff-92b534b18ce9",
       "type": "http",
-      "documentation": "",
+      "documentation": "post-3",
       "method": "post",
-      "endpoint": "post3",
+      "endpoint": "post-3",
       "responses": [
         {
           "uuid": "aabd1b07-1fb2-49e1-ba40-cb212fa9bb3e",
@@ -214,9 +214,9 @@
     {
       "uuid": "debbfe83-c1a7-40bd-9fe0-a2206eaec319",
       "type": "http",
-      "documentation": "",
+      "documentation": "post-4",
       "method": "post",
-      "endpoint": "post4",
+      "endpoint": "post-4",
       "responses": [
         {
           "uuid": "1ff8aaa8-f1de-42bd-97f3-9c678f776d5f",
