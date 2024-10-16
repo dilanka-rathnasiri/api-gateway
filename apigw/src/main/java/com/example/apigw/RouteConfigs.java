@@ -46,6 +46,9 @@ public class RouteConfigs {
                         .method(HttpMethod.GET)
                         .filters(f -> f.rewritePath("/server-5/sse", "/sse"))
                         .uri("http://localhost:3002"))
+                .route("ws", r -> r.path("/server-6/ws")
+                        .filters(f -> f.rewritePath("/server-6/ws", "/ws"))
+                        .uri("ws://localhost:3003"))
                 .build();
     }
 }
